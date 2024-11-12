@@ -1,4 +1,4 @@
-# RRT with multiple remote goals.
+# RRT with multiple remote goals. (변경 코드 업로드 미완)
 
 This repository contains the [ROS](https://www.ros.org/) package with code implementation of RRT-based path planning algorithm suitable for exploration of a trackdrive circuit according to the rules of Formula Student Driverless [competition](https://www.formulastudent.de/fsg/) in Germany. This algorithm is based on my contribution to [E-gnition](https://www.egnition.hamburg/), a FS Team of Technical University Hamburg.
 
